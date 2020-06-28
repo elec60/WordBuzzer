@@ -22,7 +22,7 @@ I decide to use MVVM design pattern for writing tests easily, but due to the tim
 ## Next Step?
 There are the features which I would implement if I had enough time:
 
-- Animation and UI improvements (i.e. text property for CurveButton in such a way the corresponding player could be easily read his/her name (drawing text in a curve path))
 - Compliting test tasks
+- Animation and UI improvements (i.e. text property for CurveButton in such a way the corresponding player could be easily read his/her name (drawing text in a curve path))
 - Handling SavedInstanceState
 - Game Settings (i.e. Players count, Theme, Difficultly level(game speed))
